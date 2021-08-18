@@ -572,7 +572,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pipe: {fileID: 4881905662378433530, guid: c0b9b1e976b718346984332f57225c00, type: 3}
   height: 1.5
-  maxTime: 0.5
+  maxTime: 2
 --- !u!4 &1183958802
 Transform:
   m_ObjectHideFlags: 0
